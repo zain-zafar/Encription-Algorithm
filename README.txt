@@ -1,1 +1,0 @@
-The user can encript or decript a message through the use of keystream values. 
